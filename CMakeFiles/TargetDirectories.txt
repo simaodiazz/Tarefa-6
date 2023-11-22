@@ -1,0 +1,3 @@
+/home/simaodiazz/Desktop/Tarefa 6/CMakeFiles/App.dir
+/home/simaodiazz/Desktop/Tarefa 6/CMakeFiles/edit_cache.dir
+/home/simaodiazz/Desktop/Tarefa 6/CMakeFiles/rebuild_cache.dir

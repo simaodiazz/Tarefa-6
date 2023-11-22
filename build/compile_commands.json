@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/simaodiazz/Desktop/Tarefa 6/build",
+  "command": "/usr/bin/g++  -I\"/home/simaodiazz/Desktop/Tarefa 6/include\" -g -std=gnu++17 -o CMakeFiles/App.dir/src/main.cpp.o -c \"/home/simaodiazz/Desktop/Tarefa 6/src/main.cpp\"",
+  "file": "/home/simaodiazz/Desktop/Tarefa 6/src/main.cpp"
+}
+]
