@@ -21,6 +21,11 @@ public:
         }
     }
 
+    /**
+     * Metodo para verificar se o aluno passou
+     * 
+     * @author simaodiazz
+    */
     void getPassed() {
         for (int i = 0; i < 9; i++) {
             if (values[i] >= 10) {
@@ -29,6 +34,11 @@ public:
         }
     }
 
+    /**
+     * Metodo para retornar a media
+     * 
+     * @author simaodiazz
+    */
     void getAvarage() {
         double sum = 0;
         for (int i = 0; i < 9; i++) {
@@ -37,6 +47,11 @@ public:
         cout << "A media do aluno " << name << " foi de " << sum / 9 << endl;
     }
 
+    /**
+     * Metodo para retornar a maior nota
+     * 
+     * @author simaodiazz
+    */
     void getBetter() {
         int index;
         double max = 0;
